@@ -8,4 +8,4 @@
 
 <h2> Данные: </h2>
 
-Исходные данные (https://www.kaggle.com/datasets/shreyj1729/cctv-fights-dataset/data) были взяты с Kaggle (набор данных NTU CCTV-Fights Из лаборатории ROSE (Rapid-Rich Object Search)).
+< a href = https://www.kaggle.com/datasets/shreyj1729/cctv-fights-dataset/data> Исходные данные </a> были взяты с Kaggle (набор данных NTU CCTV-Fights Из лаборатории ROSE (Rapid-Rich Object Search)).
